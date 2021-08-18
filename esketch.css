@@ -10,12 +10,12 @@ body {
 header {
     text-align: center;
     font-weight: 800;
-    margin-top:1rem;
+    margin-top: -1rem;
 }
 .buttons {
     display: flex;
     justify-content: center;
-    margin: 1rem 0rem 1rem 0rem;
+    margin: 0.8rem 0rem 1rem 0rem;
 }
 button {
     font-family: inherit;
